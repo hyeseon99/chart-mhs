@@ -45,4 +45,4 @@ def hospital_chatbot():
         else:
             print("챗봇: 죄송합니다, 관련 정보를 찾을 수 없습니다.")
 
-hospital_chatbot()
+st.hospital_chatbot()
