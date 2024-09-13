@@ -1,5 +1,6 @@
 import urllib3
 import json
+import streamlit as st
 
 openApiURL = "http://aiopen.etri.re.kr:8000/WiseQAnal"
 accessKey = "074c136c-f5d7-4063-811b-9cf8b8060803"  # API Key 설정
